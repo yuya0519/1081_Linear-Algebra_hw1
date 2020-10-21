@@ -9,11 +9,13 @@
 創建3個檔案，分別為 1.DNA存放DNA結構、1.PROTEIN存放蛋白質結構和1.MATEIX存放要用來轉換的平移矩陣並將3個檔案放入和程式同一個資料夾。
 
 ## 簡要使用說明:  
-- Input: 輸入皆由讀檔，檔案格式為:
- 1.DNA
- ![avatar](https://upload.cc/i1/2020/10/21/zfPIZu.jpg) 
+- Input: 輸入皆由讀檔，檔案格式為: 
+1.DNA
+![avatar](https://upload.cc/i1/2020/10/21/zfPIZu.jpg) 
+
 1.PROTEIN
 ![avatar](https://upload.cc/i1/2020/10/21/vNUTmF.jpg) 
+
 1.MATRIX
 ![avatar](https://upload.cc/i1/2020/10/21/sBqXZb.jpg) 
 
