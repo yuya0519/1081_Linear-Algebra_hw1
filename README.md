@@ -11,11 +11,11 @@
 ## 簡要使用說明:  
 - Input: 輸入皆由讀檔，檔案格式為:
  1.DNA
- ![avatar](https://upload.cc/i1/2020/10/21/zfPIZu.jpg)
+ ![avatar](https://upload.cc/i1/2020/10/21/zfPIZu.jpg) 
 1.PROTEIN
-![avatar](https://upload.cc/i1/2020/10/21/vNUTmF.jpg)
+![avatar](https://upload.cc/i1/2020/10/21/vNUTmF.jpg) 
 1.MATRIX
-![avatar](https://upload.cc/i1/2020/10/21/sBqXZb.jpg)
+![avatar](https://upload.cc/i1/2020/10/21/sBqXZb.jpg) 
 
 
 - Output: 第一行為鍵結個數，第二行為鍵結編號且每個位置編號皆空一格。 
