@@ -40,7 +40,7 @@
 #include<cstdlib> //將相關名稱新增至 std 命名空間
 ```
 
-### Global變數說明:
+### 變數說明:
 ```cpp
 stream file2("1.DNA");  //讀檔 
 ifstream file1("1.PROTEIN");    //讀檔 
